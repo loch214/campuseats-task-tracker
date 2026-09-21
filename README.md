@@ -1,3 +1,3 @@
 # campuseats-task-tracker
 
-A smal task tracker app for the CampusEats team.
+A small task tracker app for the CampusEats team.
